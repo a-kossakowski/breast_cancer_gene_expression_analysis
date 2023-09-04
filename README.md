@@ -30,7 +30,7 @@ The gene expression data is sourced from the [GSE162285 dataset](https://www.ncb
 3. Run Jupyter Notebook or Python script for analysis.
 
 ## Authors
-[Your Name]
+[Aleksander Kossakowski]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
