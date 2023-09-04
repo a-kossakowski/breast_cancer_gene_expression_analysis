@@ -39,7 +39,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 - The gene expression data is sourced from the [GEO database](https://www.ncbi.nlm.nih.gov/geo/).
-- Literature references:
+
+## Literature references
   
 [NCBI GEO: archive for functional genomics data sets—update](https://academic.oup.com/nar/article/41/D1/D991/1067995?login=true)
 
