@@ -10,7 +10,7 @@ This project aims to analyze gene expression data from breast cancer cells treat
 3. Determine if the observed changes in gene expression are statistically significant.
 
 ## Data Source
-The gene expression data is sourced from the [GSE162285 dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162285).
+The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162285).
 
 ## Tools and Libraries
 - Python
