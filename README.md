@@ -10,10 +10,11 @@ This project aims to analyze gene expression data from breast cancer cells treat
 3. Determine if the observed changes in gene expression are statistically significant.
 
 ## Data Source
-The gene expression data is sourced from the [GSE162285 dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162285) available on the Gene Expression Omnibus (GEO).
+The gene expression data is sourced from the [GSE162285 dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162285).
 
 ## Tools and Libraries
 - Python
+- NumPy
 - Pandas
 - Matplotlib
 - SciPy
@@ -29,11 +30,15 @@ The gene expression data is sourced from the [GSE162285 dataset](https://www.ncb
 2. Navigate to the project directory.
 3. Run Jupyter Notebook or Python script for analysis.
 
-## Authors
-[Aleksander Kossakowski]
+## Author
+
+Aleksander Kossakowski
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-- The gene expression data is sourced from the GEO database.
+- The gene expression data is sourced from the [GEO database](https://www.ncbi.nlm.nih.gov/geo/).
+- Literature references:
+[NCBI GEO: archive for functional genomics data sets—update](https://academic.oup.com/nar/article/41/D1/D991/1067995?login=true)
+[An Embryonic Diapause-like Adaptation with Suppressed Myc Activity Enables Tumor Treatment Persistence](https://pubmed.ncbi.nlm.nih.gov/33417832/)
