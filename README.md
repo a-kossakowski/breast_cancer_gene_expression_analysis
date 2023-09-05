@@ -22,7 +22,7 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 ## Tools and Libraries
 - Github
 - Bash/Linux
-- Jupyter Labs
+- Jupyter Lab
 - Python
   - Pandas
   - Matplotlib
