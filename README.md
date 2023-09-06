@@ -20,13 +20,15 @@ The utilization of this gene expression data offers a unique opportunity to iden
 The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162285).
 
 ## Tools and Libraries
-- Github
+- GitHub
 - Bash/Linux
 - Jupyter Lab
 - Python
   - Pandas
   - Matplotlib
   - SciPy
+  - NumPy
+  - Seaborn
 
 ## Project Structure
 - `data/`: Contains the raw gene expression data.
