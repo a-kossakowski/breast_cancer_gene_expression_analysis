@@ -31,8 +31,6 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 ## Project Structure
 - `data/`: Contains the raw gene expression data.
 - `notebooks/`: Jupyter notebooks for data exploration and analysis.
-- `scripts/`: Python scripts for data processing and statistical analysis.
-- `docs/`: Documentation and related literature.
 
 ## How to Run
 1. Clone this repository.
