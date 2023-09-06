@@ -38,7 +38,8 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 1. Clone this repository.
 2. Navigate to the project directory.
 3. Run Jupyter Notebook for analysis.
-  - If you can't open a notebook via GitHub, copy-paste it's link into [nbviewer](https://nbviewer.org/).
+
+#### If you can't open a notebook via GitHub, copy-paste it's link into [nbviewer](https://nbviewer.org/).
 
 ## Author
 Aleksander Kossakowski
