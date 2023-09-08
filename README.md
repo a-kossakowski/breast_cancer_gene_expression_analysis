@@ -15,6 +15,7 @@ The present investigation delves into comprehending the intricate dynamics of dr
 The utilization of this gene expression data offers a unique opportunity to identify specific genes and pathways that undergo upregulation in the context of drug-resistant residual tumors. Through meticulous analysis, researchers can uncover potential molecular drivers contributing to the development of drug-refractory states in cancer cells.
 
 </details>
+
 ## Objectives
 1. Identify pairs of genes whose expression levels are highly correlated.
 2. Model how the expression levels of these genes change with different dosages of specific drugs.
