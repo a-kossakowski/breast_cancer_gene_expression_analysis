@@ -6,7 +6,7 @@ This project aims to analyze gene expression data from breast cancer cells treat
 
 ## Biological Background
 <details>
-  <summary>Click to read about biological background for my research & dataset I've used</summary>
+  <summary>Overview of Drug Resistance Research</summary>
 
 In the realm of cancer treatment, the persistent challenge of incomplete eradication and subsequent relapses arises due to the emergence of drug-resistant tumor cells. These cells, known as the "seed" for relapse, evade the effects of therapies and hinder successful long-term outcomes. Despite this significance, the underlying biological mechanisms driving _in situ_ resistance within tumors remain poorly understood. Moreover, the absence of accurate _in vitro_ models to simulate this drug-refractory state of cancer cells further complicates the study of this phenomenon.
 
