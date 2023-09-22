@@ -2,7 +2,7 @@
 Statistical analysis of gene expression in breast cancer cells to identify and model the impact of drug treatments
 
 ## Overview
-This project aims to analyze gene expression data from breast cancer cells treated with different types and dosages of drugs. The primary focus is to identify genes whose expression is significantly altered by the treatments and to model these changes using statistical methods like Pearson correlation and linear regression.
+This project aims to analyze gene expression data from breast cancer cells treated with different types and dosages of drugs. The primary focus is to identify genes whose expression is significantly altered by the treatments and to model these changes using statistical methods like Pearson correlation.
 
 ## Biological Background
 <details>
