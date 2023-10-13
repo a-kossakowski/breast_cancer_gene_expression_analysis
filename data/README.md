@@ -8,5 +8,7 @@
 ## Data Files Overwiev:
 
 `GSE162285_gene_raw_counts_matrix.txt` - raw RNAseq gene counts file
+
 `filtered_normalized_gene_expression_data.csv` - normalized data with shortened labels
+
 `correlation_top10_matrix` - Peatsons` correlation matrix for top ten gene expressions
