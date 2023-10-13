@@ -1,8 +1,12 @@
 # Dataset Details
 **Status**: Public since Jan 11, 2021
+
 **Title**: Gene expression profiling of drug-persistent breast and prostate cancer cells derived from treatment of organoids or PDX with cytotoxic agents.
+
 **Organism**: Homo sapiens
+
 **Experiment Type**: Expression profiling by high throughput sequencing
+
 **Overall Design**: RNA profiles of drug-persistent cancer cells in 3D organoid cultures or in vivo tumors treated with chemotherapeutics and/or targeted agents.
 
 ## Data Files Overwiev:
