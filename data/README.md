@@ -1,4 +1,4 @@
-# Dataset Details
+# Input Dataset Details
 **Status**: Public since Jan 11, 2021
 
 **Title**: Gene expression profiling of drug-persistent breast and prostate cancer cells derived from treatment of organoids or PDX with cytotoxic agents.
