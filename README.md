@@ -45,14 +45,19 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 
 ## Methodologies and Analysis
 **Data Loading and Exploration**: The gene expression data was initially loaded and explored to understand its structure and content.
+
 **Data Cleaning and Preprocessing**: Gene identifiers were separated from their symbols for clarity. Sample names were simplified while ensuring differentiation between control and test samples. Gene expression values were normalized using the "Counts Per Million" (CPM) method.
+
 ### Data Visualization:
-Distribution of median expression values of all genes was plotted.
-A heatmap was generated to visualize expression levels of the top 50 genes with the highest median expression across samples.
-Statistical and Inferential Analysis:
-Median expression values of genes were computed for both control ("Veh" samples) and test groups ("Doc" and "Vinbl" samples).
-Differential expression analysis identified genes with significant expression differences between control and test groups.
-A correlation analysis was conducted for the top **ten** genes with the highest median expression to understand the relationships between them.
+
+- Distribution of median expression values of all genes was plotted.
+- A heatmap was generated to visualize expression levels of the top 50 genes with the highest median expression across samples.
+
+### Statistical and Inferential Analysis:
+
+- Median expression values of genes were computed for both control ("Veh" samples) and test groups ("Doc" and "Vinbl" samples).
+- Differential expression analysis identified genes with significant expression differences between control and test groups.
+- A correlation analysis was conducted for the top **ten** genes with the highest median expression to understand the relationships between them.
 
 ## Author
 Aleksander Kossakowski
