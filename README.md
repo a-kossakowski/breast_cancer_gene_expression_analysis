@@ -46,7 +46,9 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 ## Methodologies and Analysis
 **Data Loading and Exploration**: The gene expression data was initially loaded and explored to understand its structure and content.
 
-**Data Cleaning and Preprocessing**: Gene identifiers were separated from their symbols for clarity. Sample names were simplified while ensuring differentiation between control and test samples. Gene expression values were normalized using the "Counts Per Million" (CPM) method.
+### Data Cleaning and Preprocessing: 
+- Gene identifiers were separated from their symbols for clarity. Sample names were simplified while ensuring differentiation between control and test samples.
+- Gene expression values were normalized using the "Counts Per Million" (CPM) method.
 
 ### Data Visualization:
 
@@ -62,10 +64,10 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
 ## Author
 Aleksander Kossakowski
 
-## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
-## Literature references
+### Literature references
 GEO database: [NCBI GEO: archive for functional genomics data sets—update](https://academic.oup.com/nar/article/41/D1/D991/1067995?login=true)
 
 Dataset: [An Embryonic Diapause-like Adaptation with Suppressed Myc Activity Enables Tumor Treatment Persistence](https://pubmed.ncbi.nlm.nih.gov/33417832/)
