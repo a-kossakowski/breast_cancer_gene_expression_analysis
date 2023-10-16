@@ -36,7 +36,7 @@ The gene expression data is sourced from the [GSE162285](https://www.ncbi.nlm.ni
   - Seaborn
 
 ## Project Structure
-- `data/`: Contains the raw gene expression data.
+`data/`: Contains the raw gene expression data.
 
 ## How to Run
 1. Clone this repository.
